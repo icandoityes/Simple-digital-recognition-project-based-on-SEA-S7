@@ -1,2 +1,1 @@
-# Simple-digital-recognition-project-based-on-SEA-S7
-Simple digital recognition project based on SEA-S7
+https://github.com/icandoityes/Simple-shape-recognition-device-and-LED-flashing-function-after-transplanting-azpr-system
